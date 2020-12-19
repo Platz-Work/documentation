@@ -6,5 +6,9 @@ Hack Work Opportunities
 - ¿Cómo lo resuelven?
 Creando una aplicación más amigable tanto para la creación de nuevas ofertas de empleo como para una mejor búsqueda y visualización de estas mismas.
 - ¿Qué tecnologías se utilizarán?
- Backend: DJANGO, HEROKU, Postman
+ Backend: DJANGO, HEROKU, Postman, PostgreSQL
  Frontend : Angular, Sass, viser-ng, invisionapp
+
+
+ link:
+ - https://platzi-work.vercel.app/login
